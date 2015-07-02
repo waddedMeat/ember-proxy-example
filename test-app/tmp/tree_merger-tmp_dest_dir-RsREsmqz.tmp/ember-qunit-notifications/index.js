@@ -1,0 +1,1 @@
+/home/tmp/funnel-dest_Gy49fc.tmp/ember-qunit-notifications/index.js

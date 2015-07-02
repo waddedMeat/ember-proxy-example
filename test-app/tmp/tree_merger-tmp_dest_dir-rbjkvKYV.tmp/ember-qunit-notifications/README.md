@@ -1,0 +1,1 @@
+/home/tmp/funnel-dest_v0trET.tmp/ember-qunit-notifications/README.md

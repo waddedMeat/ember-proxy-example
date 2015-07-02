@@ -1,0 +1,1 @@
+/home/tmp/funnel-dest_5TJkjB.tmp/ember-data/ember-data.js

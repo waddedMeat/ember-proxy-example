@@ -1,0 +1,1 @@
+/home/tmp/babel-output_path-tzn5Y4K8.tmp/test-app/app.js

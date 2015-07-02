@@ -1,0 +1,1 @@
+/home/tmp/jshinter-tmp_cache_dir-k0um5ad0.tmp/0

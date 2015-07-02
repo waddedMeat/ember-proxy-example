@@ -1,0 +1,1 @@
+/home/tmp/babel-output_path-WbWKNM45.tmp/test-app/tests/helpers/resolver.js

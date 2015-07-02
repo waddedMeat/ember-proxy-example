@@ -1,0 +1,1 @@
+/home/tmp/caching-writer-dest-dir_SCt8KY.tmp/assets/vendor.js

@@ -1,0 +1,1 @@
+/home/tmp/funnel-dest_o9Vmr4.tmp/test-app/tests/helpers/resolver.jshint.js

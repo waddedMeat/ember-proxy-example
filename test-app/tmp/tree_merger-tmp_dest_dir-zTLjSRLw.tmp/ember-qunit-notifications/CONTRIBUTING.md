@@ -1,0 +1,1 @@
+/home/tmp/funnel-dest_ynmKPD.tmp/ember-qunit-notifications/CONTRIBUTING.md

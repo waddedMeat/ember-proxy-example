@@ -1,0 +1,1 @@
+/home/tmp/funnel-dest_TDm6Q1.tmp/test-app/tests/helpers/start-app.jshint.js

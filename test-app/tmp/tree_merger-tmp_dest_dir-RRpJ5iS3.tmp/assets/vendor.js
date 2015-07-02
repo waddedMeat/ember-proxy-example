@@ -1,0 +1,1 @@
+/home/tmp/class-tmp_cache_dir-LoEWlR3g.tmp/assets/vendor.js

@@ -1,0 +1,13 @@
+ember:
+    build: ember
+    volumes:
+        - ./test-app:/home
+    command: ember server --watch
+proxy:
+    build: proxy
+    ports:
+        - "80:80"
+        - "443:443"
+        - "35729:35729"
+    links:
+        - ember

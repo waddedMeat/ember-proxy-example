@@ -1,0 +1,1 @@
+/home/tmp/class-tmp_cache_dir-LtcBhDpC.tmp/assets/test-app.js

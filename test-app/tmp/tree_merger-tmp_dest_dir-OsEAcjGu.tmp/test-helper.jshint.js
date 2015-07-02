@@ -1,0 +1,1 @@
+/home/tmp/jshinter-tmp_dest_dir-Rsw6ttph.tmp/test-helper.jshint.js

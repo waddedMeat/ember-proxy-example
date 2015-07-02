@@ -1,0 +1,1 @@
+/home/tmp/babel-output_path-KsnX5srb.tmp/test-app/tests/helpers/start-app.js
